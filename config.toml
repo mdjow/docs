@@ -1,0 +1,14 @@
+baseURL = "http://djonatan.com/"
+languageCode = "pr-br"
+title = "Documentação"
+theme = "github-style"
+copyright = "© 2020. Djonatan Pacheco"
+
+[params]
+  author = "Djonatan Pacheco"
+  description = "Programador"
+  github = "https://github.com/mdjow"
+  email = "contato@djonatan.com"
+  utterances = "https://github.com/mdjow"
+  avatar = "https://avatars2.githubusercontent.com/u/17988263?s=460&u=d0bebe874c8870dcde46202cf40ddabf0d87882d&v=4"
+  url = "http://djonatan.com"
